@@ -9,7 +9,6 @@ It contains micro-certifications, short course completions, and foundational mod
 - Coursera (short modules and skill certificates)
 - Fortinet Training
 - University coursework (relevant modules)
-- Cisco Networking Academy (introductory courses)
 
 ## Structure
 Each platform is documented with:
