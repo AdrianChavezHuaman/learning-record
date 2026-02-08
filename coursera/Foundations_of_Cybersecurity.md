@@ -1,8 +1,6 @@
 # Foundations of Cybersecurity
 
-![Certificate](![Foundations of Cybersecurity](https://github.com/user-attachments/assets/0dc67236-c11c-46dd-84c2-8319ade39b9b)
-)
-
+![Certificate](Foundations_of_Cybersecurity.jpg)
 
 - Platform: Coursera
 - Completion Date: 2026-02-05
