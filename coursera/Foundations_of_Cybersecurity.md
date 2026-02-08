@@ -1,5 +1,8 @@
 # Foundations of Cybersecurity
 
+![Certificate](Foundations_of_Cybersecurity.png)
+
+
 - Platform: Coursera
 - Completion Date: 2026-02-05
 
