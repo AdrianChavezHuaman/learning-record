@@ -1,6 +1,6 @@
 # Foundations of Cybersecurity
 
-![Certificate](Foundations_of_Cybersecurity.png)
+![Certificate](https://github.com/AdrianChavezHuaman/learning-record/raw/main/coursera/Foundations_of_Cybersecurity.jpg)
 
 - Platform: Coursera
 - Completion Date: 2026-02-05
