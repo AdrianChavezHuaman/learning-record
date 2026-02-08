@@ -37,12 +37,3 @@ This repository is designed as a **transparent learning log**, rather than a cur
 - Documentation of foundational skills in cybersecurity, systems, and SOC practices  
 
 > Major professional certifications, paid courses, and key career milestones are referenced **only in the main Professional Portfolio**.
-
----
-
-## Notes
-
-- Maintain clarity and scalability for hundreds of micro-certifications.  
-- Each certification should have a **dedicated `.md` file** with an optional image.  
-- Use **relative paths** for images for portability.  
-- This structure ensures all learning is documented without overcrowding the Professional Portfolio.
